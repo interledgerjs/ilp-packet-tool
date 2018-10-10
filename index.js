@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const IlpPacket = require('ilp-packet')
 const BtpPacket = require('btp-packet')
 const { argv } = require('yargs')
